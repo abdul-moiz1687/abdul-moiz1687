@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Abdul Moiz
 ===================================================================================================================================
 
-Frontend Developer | React Developer
+Frontend Developer 
 ------------------------------------
 
 I'm Abdul Moiz, a passionate Frontend Developer from Karachi, Pakistan. I'm currently studying Modern Web Application Development at SMIT and continuously improving my skills in React, JavaScript, Tailwind CSS, Express.js, and MongoDB.
